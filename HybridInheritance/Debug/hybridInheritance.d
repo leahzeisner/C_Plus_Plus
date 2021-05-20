@@ -1,0 +1,1 @@
+hybridInheritance.o: ../hybridInheritance.cpp

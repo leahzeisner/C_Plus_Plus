@@ -1,0 +1,1 @@
+geometricSum.o: ../geometricSum.cpp

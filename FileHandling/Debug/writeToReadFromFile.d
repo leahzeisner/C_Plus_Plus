@@ -1,0 +1,1 @@
+writeToReadFromFile.o: ../writeToReadFromFile.cpp
