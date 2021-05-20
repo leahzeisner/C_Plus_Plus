@@ -1,0 +1,1 @@
+countZeros.o: ../countZeros.cpp
