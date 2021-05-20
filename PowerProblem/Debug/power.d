@@ -1,0 +1,1 @@
+power.o: ../power.cpp
