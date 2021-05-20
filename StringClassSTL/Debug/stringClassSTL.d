@@ -1,0 +1,1 @@
+stringClassSTL.o: ../stringClassSTL.cpp

@@ -1,0 +1,1 @@
+sumOfDigits.o: ../sumOfDigits.cpp
